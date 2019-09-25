@@ -23,7 +23,7 @@ function App() {
       
       <div className="App">
         <Display/>
-      <div className="bigBox">
+      <div className="mainBox">
        <div className="firstBox">
        <Specials/>
         <Numbers/>
